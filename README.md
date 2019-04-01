@@ -9,7 +9,6 @@ this decision are mostly related to choosing the countries that are in the dires
 
 
 And this is where you come in as a data analyst. Your job is to categorise the countries using some socio-economic and health factors that 
-determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most.  
-The datasets containing those socio-economic factors and the corresponding data dictionary are provided below.
+determine the overall development of the country. Then you need to suggest the countries which the CEO needs to focus on the most. The datasets containing those socio-economic factors and the corresponding data dictionary are provided below.
 
 
